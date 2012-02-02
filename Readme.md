@@ -6,4 +6,10 @@ I built this boilerplate to experiment and learn the module mediator facade patt
 
 You can read more about it [here](http://addyosmani.com/largescalejavascript/), this is also largly based off of Addy Osmani's [Backbone Aura](https://github.com/addyosmani/backbone-aura) project.
 
-This is still a work in progess
+This is still a work in progess.
+
+### Related
+
+* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
+* [Large-scale JavaScript Application Architecture (Speaker Deck)](http://speakerdeck.com/u/addyosmani/p/large-scale-javascript-application-architecture)
+* [Backbone Aura](https://github.com/addyosmani/backbone-aura)
